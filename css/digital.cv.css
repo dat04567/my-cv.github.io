@@ -1,0 +1,15 @@
+.bg-blue-light
+{
+    background-color: #f1f3f5;
+}
+
+.icon-tl
+{
+    width: 40px;
+    height: 40px;
+    background-color: #9775fa;
+}
+.border-dotted
+{
+    border-bottom: 1px dotted #74c0fc;
+}

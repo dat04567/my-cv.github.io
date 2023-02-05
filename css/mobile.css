@@ -1,0 +1,12 @@
+@media (max-width: 575px)
+{
+    #banner h1
+    {
+        font-size: 32px;
+    }
+    .ruler-box::before
+    {
+        display: none;
+    }
+    
+}

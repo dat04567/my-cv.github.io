@@ -1,0 +1,22 @@
+@media (max-width:768px)
+{
+    #nav-bar img
+    {
+        display: none;
+    } 
+    #target h2,
+    #personal-info h2
+    {
+        font-size: 22px;
+    }
+    #target p,
+    #personal-info li,
+    #about i
+    {
+        font-size: 14px;
+    }
+    
+}  
+
+
+
